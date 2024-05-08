@@ -6,7 +6,7 @@ import styles from "./Header.css"
 const Header = () => {
     return(
       
-            <div className='Header'>
+            <div>
         <nav>
             <Link to = "/"> Home </Link>
             <Link to="/Desafio">Desafio</Link>
