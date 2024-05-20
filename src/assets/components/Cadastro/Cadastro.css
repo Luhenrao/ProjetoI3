@@ -1,0 +1,19 @@
+.background {
+    background-size: cover;
+    background-position: center;
+    
+    height: 91vh;
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.divlogin {
+    border: none;
+    border-radius: 30px;
+    padding: 50px;
+    background-color: aliceblue;
+    
+}
